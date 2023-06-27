@@ -6,5 +6,6 @@ Adds quick switching of LORA to oobabooga TEXT WEB UI
 
 ![image](https://github.com/FartyPants/Loraswitch/assets/23346289/cb413edd-9b9b-4468-8c9a-cf4e03c583fe)
 
-Currently in the main branch of ooba there need to be fix in LORA code otherwise it will display the first loaded lora as 'default', 
-I submitted pull request to fix it.
+Playground https://github.com/FartyPants/Playground has more comprehensive LoRA settings.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5MOB4M)
